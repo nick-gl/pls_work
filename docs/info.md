@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Talk about how it works.Talk about how it works.Talk about how it works.Talk about how it works.Talk about how it works.Talk about how it works.Talk about how it works.Talk about how it works.Talk about how it works.Talk about how it works.Talk about how it works.Talk about how it works.
+uhh I don't know what it is
 
 ## How to test
 
-Tell us how to test. Tell us how to test. Tell us how to test. Tell us how to test. Tell us how to test. Tell us how to test. Tell us how to test. Tell us how to test. Tell us how to test. Tell us how to test. Tell us how to test. Tell us how to test. Tell us how to test. 
-
+I don't know how 
 ## External hardware
 
 All the PMODs
